@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.statusStyle {
+  color: darkviolet;
+  text-decoration: line-through;
+}
